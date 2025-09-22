@@ -1,0 +1,9 @@
+# requirements.txt
+fastapi
+uvicorn[standard]
+python-multipart
+opencv-python-headless
+numpy
+pillow
+torchgeometry
+kornia
